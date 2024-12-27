@@ -30,7 +30,7 @@ export default async function IndexPage() {
         GIFs generated!
       </p>
       <Main />
-      <Banner />
+{/*       <Banner /> */}
     </main>
   )
 }
